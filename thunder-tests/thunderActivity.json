@@ -1,0 +1,16 @@
+[
+	{
+		"_id": "fc70b0b1-69d2-472b-96c2-97734f8aab6a",
+		"colId": "history",
+		"containerId": "",
+		"name": "localhost:8080/get_pairs",
+		"url": "localhost:8080/get_pairs",
+		"method": "GET",
+		"sortNum": 0,
+		"created": "2023-04-18T21:33:15.610Z",
+		"modified": "2023-04-18T21:33:15.610Z",
+		"headers": [],
+		"params": [],
+		"tests": []
+	}
+]
